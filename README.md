@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visajshah.
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Deep Learning Algorithms, Neural Networks, DynamoDB, Electron.js.
+- 🌱 I’m currently learning Deep Learning Algorithms, Neural Networks, NoSQL Databases, Electron.js.
 - 💞️ I’m looking to collaborate on FinTech projects.
 - 📫 Reach out to me via visaj.shah@gmail.com. Connect via Twitter: https://twitter.com/VisajShah.
 
