@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @visajshah.
+# Visaj Nirav Shah
+
+- 👋 Hi, I’m [@visajshah](https://github.com/visajshah).
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Deep Learning Algorithms, Neural Networks, NoSQL Databases, Electron.js.
 - 💞️ I’m looking to collaborate on FinTech projects.
-- 📫 Reach out to me via visaj.shah@gmail.com. Connect via Twitter: https://twitter.com/VisajShah.
+- 📫 Reach out to me via visaj.shah@gmail.com. Connect via [LinkedIn](https://linkedin.com/in/visaj-shah).
 
 <!---
 visajshah/visajshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
