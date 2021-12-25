@@ -1,7 +1,7 @@
 # Visaj Nirav Shah
 
 - 👋 Hi, I’m [@visajshah](https://github.com/visajshah).
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Deep Learning Algorithms, Neural Networks, NoSQL Databases, Electron.js.
 - 💞️ I’m looking to collaborate on FinTech projects.
 - 📫 Reach out to me via visaj.shah@gmail.com. Connect via [LinkedIn](https://linkedin.com/in/visaj-shah).
